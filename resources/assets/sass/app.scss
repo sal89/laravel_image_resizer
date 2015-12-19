@@ -1,0 +1,11 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+h1{
+	font-family: "Lato";
+	font-size: 50px;
+}
+.form-horizontal{
+	margin-top: 50px;
+
+	.control-label{text-align: left; }
+}
